@@ -51,8 +51,10 @@ Deixo abaixo meu linkedin para contato
     style="padding-right: 10px;" 
     src="https://cdn-1.webcatalog.io/catalog/microsoft-power-apps/microsoft-power-apps-icon-filled-256.webp?v=1714775134600"
 />
-
-### 🔹 Linguagens Utilizadas
+<br>
+<br>
+<br>
+#### 🔹 Linguagens Aprendidas
 
 - Visual Basic
 - DAX e Power Query M
